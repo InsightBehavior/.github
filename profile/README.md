@@ -1,5 +1,5 @@
 # **MicroData**
-> **_MicroData is a small consultancy company developing data acquisition and analysis insights and creating a better bussiness understanding._**
+> **_MicroData is a small consultancy company developing systems for data acquisition, analysis and a better bussiness understanding._**
 
 ### **Our Goals:**
 
