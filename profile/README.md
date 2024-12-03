@@ -1,5 +1,5 @@
-# **InsightBehavior**
-> **_InsightBehavior is a small consultancy company developing systems for data acquisition, analysis and a better bussiness understanding._**
+# **Brain Net**
+> **_This project aims to develop a MAS system with different Neural Network Agent Models._**
 
 ### **Our Goals:**
 
