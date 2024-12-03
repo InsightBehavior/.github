@@ -8,33 +8,33 @@ At BrainNet, we aim to bridge the gap between perception and action by leveragin
 
 Key Repositories:
 
-- 🧠 Brain Agent
+- ### 🧠 **Brain Agent**
   
-Purpose: Orchestration and overall system coordination.
+Agent Purpose: Orchestration and overall system coordination.
 Acts as the "brain," managing inter-agent communication and decision-making processes.
 
-- 👁️ Eyes Agent
+- ### 👁️ **Eyes Agent**
   
-Purpose: Environment perception and context interpretation through visual data.
+Agent Purpose: Environment perception and context interpretation through visual data.
 Powers object recognition, spatial awareness, and visual understanding.
 
-- 👂 Ears Agent
+- ### 👂 **Ears Agent**
   
-Purpose: Environment perception and context interpretation through auditory data.
+Agent Purpose: Environment perception and context interpretation through auditory data.
 Enables sound recognition, speech-to-text, and environmental audio analysis.
 
-- 🗣️ Speech Agent
+- ### 🗣️ **Speech Agent**
   
-Purpose: Intellectual interaction with the environment.
+Agent Purpose: Intellectual interaction with the environment.
 Handles natural language processing, dialogue generation, and meaningful communication.
 
-- 💪 Arms Agent
+- ### 💪 **Arms Agent**
   
-Purpose: Physical interaction with the environment.
+Agent Purpose: Physical interaction with the environment.
 Responsible for broader physical tasks and collaborative manipulations.
 
-- 🦵 Legs Agent
+- ### 🦵 **Legs Agent**
   
-Purpose: Physical interaction with the environment.
+Agent Purpose: Physical interaction with the environment.
 Facilitates locomotion, navigation, and dynamic movement.
 
